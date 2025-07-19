@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Rogue Sensei Dev</h1>
 <h3 align="center">Python Developer | AI Enthusiast | MCA Student</h3>
 
@@ -40,18 +39,17 @@ Databases:   SQLite · MySQL
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rogue-Sensei_Dev&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rogue_sensei_Dev&theme=tokyonight&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rogue-Sensei-Dev&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rogue-Sensei-Dev&theme=tokyonight&hide_border=false" height="150"/>
 </p>
 
 ---
 
-### 📫 Connect with Me
+## 📫 Contact Me
 
-<p align="left">
-  <a href="www.linkedin.com/in/amansahu48" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:aman.sahu@myyahoo.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white"></a>
-</p>
+[![Yahoo Mail](https://img.shields.io/badge/YahooMail-6001D2?style=flat&logo=yahoo&logoColor=white)](http://compose.mail.yahoo.com/?to=aman.sahu@myyahoo.com&subj=SUBJECT&body=BODY)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amansahu48)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Rogue-Sensei-Dev)
 
 ---
 
@@ -59,6 +57,7 @@ Databases:   SQLite · MySQL
 
 > “First, solve the problem. Then, write the code.” – John Johnson
 
-![Snake animation](https://github.com/Rogue-Sensei-Dev/Rogue-Sensei-Dev/raw/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/<your-username>/<your-username>/blob/output/github-contribution-grid-snake.svg" width="100%" />
+
 
 ```
