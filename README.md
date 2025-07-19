@@ -57,6 +57,6 @@ Databases:   SQLite · MySQL
 
 > “First, solve the problem. Then, write the code.” – John Johnson
 
-<img src="https://github.com/Rogue-Sensei-Dev/Rogue-Sensei-Dev/blob/output/github-contribution-grid-snake.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/Rogue-Sensei-Dev/Rogue-Sensei-Dev/output/github-contribution-grid-snake.svg" width="100%" />
 
 ```
