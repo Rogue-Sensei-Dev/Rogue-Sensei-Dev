@@ -47,9 +47,9 @@ Databases:   SQLite · MySQL
 
 ## 📫 Contact Me
 
-[![Yahoo Mail](https://img.shields.io/badge/YahooMail-6001D2?style=flat&logo=yahoo&logoColor=white)](http://compose.mail.yahoo.com/?to=aman.sahu@myyahoo.com&subj=SUBJECT&body=BODY)
+[![Yahoo Mail](https://img.shields.io/badge/YahooMail-6001D2?style=flat&logo=yahoo&logoColor=white)](mailto:aman.sahu@myyahoo.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amansahu48)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Rogue-Sensei-Dev)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Rogue-Sensei-Dev/Rogue-Sensei-Dev)
 
 ---
 
