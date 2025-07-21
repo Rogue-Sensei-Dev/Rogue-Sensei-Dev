@@ -31,7 +31,7 @@ Databases:   SQLite · MySQL
 
 ### 📌 Featured Projects
 
-- 🔐 [Password Manager](https://github.com/yourusername/password-manager) — Secure password generator and vault 
+- 🔐 [Password Manager](https://github.com/Rogue-Sensei-Dev/Password-Manager-GUI) — Secure password generator and vault 
 - ❓ [Quizzy](https://github.com/Rogue-Sensei-Dev/Quizzy-App) — Trivia quiz app using OpenTDB API and a clean GUI  
 
 ---
