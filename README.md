@@ -23,7 +23,7 @@
 Languages:   Python · Java · C++
 Web:         Flask · HTML · CSS · JavaScript
 GUI:         Tkinter · TTKBootstrap · Swing
-Tools:       Git · GitHub · VS Code · Postman
+Tools:       Git · GitHub · VS Code
 Databases:   SQLite · MySQL
 ```
 
