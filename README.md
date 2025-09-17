@@ -10,7 +10,7 @@
 ### 🧠 About Me
 
 - 🎓 I'm currently pursuing **Master of Computer Applications (MCA)**
-- 💻 I’m working on projects like **Quizzy** and **Password Manager**
+- 💻 I’m working on projects like **Personality Predictor** and **Plant Disease Predictor**
 - 🌱 Learning more about **Machine Learning, AI**, and **Flask**
 - 🚀 I love building apps that solve real-world problems
 - 📫 Reach me at: `aman.sahu@myyahoo.com`
